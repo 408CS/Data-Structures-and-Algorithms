@@ -8,19 +8,19 @@
 
 ## 课程内容
 
-![课程内容](images/2.png)
+![课程内容](docs/images/charpter-0/2.png)
 
 ## 目录
 
-![目录](images/3.png)
+![目录](docs/images/charpter-0/3.png)
 
 * 第1章 绪论
   * [1.1 数据结构的研究内容](docs/charpter-1/1.1-数据结构的研究内容.md)
 
 ## 地位
 
-![地位](images/4.png)
-![地位](images/5.png)
+![地位](docs/images/charpter-0/4.png)
+![地位](docs/images/charpter-0/5.png)
 
 ## 重要性
 
@@ -28,8 +28,8 @@
 
 ## 好学吗
 
-![好学吗](images/7.png)
+![好学吗](docs/images/charpter-0/7.png)
 
 ## 如何学
 
-![如何学](images/8.png)
+![如何学](docs/images/charpter-0/8.png)
